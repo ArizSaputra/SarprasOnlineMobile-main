@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "839701971481",
+    "project_id": "fir-sarpras-8915d",
+    "storage_bucket": "fir-sarpras-8915d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839701971481:android:8dcb2c89c7e30a9d75a088",
+        "android_client_info": {
+          "package_name": "com.arizs.sarprasonlinemobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD7QrAgahQ7d9_gi0l3Whkb13yemPDoBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
